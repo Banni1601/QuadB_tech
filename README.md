@@ -1,5 +1,5 @@
 # qwipo_assignment
-# Website Link: https://qwipo-assignment.vercel.app/
+# Website Link: https://quad-b-tech-1j3u2fc60-banni-babu-veedhis-projects.vercel.app/
 # Developed the Website called qwipo
 # this website is Responsive and Dynamic 
 
